@@ -8,8 +8,11 @@ Components
   * Dependencies: None
   * Browser:
     * IE8+
+    * Chrome
+    * Firefox
     * Android
     * iOS
+
 
 - [orange](https://github.com/tuxlinuxien/orange)
   * Description: Carousel
@@ -17,6 +20,7 @@ Components
   * Dependencies: None
   * Browser:
     * IE8+
+    * Chrome
+    * Firefox
     * Android
     * iOS
-    
