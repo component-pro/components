@@ -13,7 +13,7 @@ Components
 
 - [orange](https://github.com/tuxlinuxien/orange)
   * Description: Carousel
-  * Demo: [http://tuxlinuxien.github.io/orange/demo/](http://tuxlinuxien.github.io/kiwi/orange/)
+  * Demo: [http://tuxlinuxien.github.io/orange/demo/](http://tuxlinuxien.github.io/orange/demo/)
   * Dependencies: None
   * Browser:
     * IE8+
